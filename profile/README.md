@@ -31,9 +31,10 @@
 | Platform | Download |
 |:---------|:---------|
 | **Android** | [![APK](https://img.shields.io/badge/APK-Stable-34a853?logo=android&logoColor=white)](https://github.com/INCY-TEAM/incy-platforms/releases/latest/download/Incy.apk) |
-| **Windows** | [![EXE](https://img.shields.io/badge/Setup-x64-0078d4?logo=windows&logoColor=white)](https://github.com/INCY-TEAM/incy-platforms/releases/latest/download/setup-Incy.x64.exe) |
-| **macOS** | [![DMG](https://img.shields.io/badge/DMG-Universal-555555?logo=apple&logoColor=white)](https://github.com/INCY-TEAM/incy-platforms/releases/latest/download/Incy.macOS.universal.dmg) |
-| **Linux** | [![DEB](https://img.shields.io/badge/deb-x64-a80030?logo=debian&logoColor=white)](https://github.com/INCY-TEAM/incy-platforms/releases/latest/download/Incy.linux.x64.deb) [![RPM](https://img.shields.io/badge/rpm-x64-ee0000?logo=redhat&logoColor=white)](https://github.com/INCY-TEAM/incy-platforms/releases/latest/download/Incy.linux.x64.rpm) |
+| **Windows** | [![EXE](https://img.shields.io/badge/Setup-x64-0078d4?logo=windows&logoColor=white)](https://github.com/INCY-TEAM/incy-linux/releases/latest/download/incy-windows-x64-setup.exe) |
+| **macOS** | [![DMG](https://img.shields.io/badge/DMG-macOS-555555?logo=apple&logoColor=white)](https://github.com/INCY-TEAM/incy-linux/releases/latest/download/incy-macos.dmg) |
+| **Linux x64** | [![DEB](https://img.shields.io/badge/deb-x64-a80030?logo=debian&logoColor=white)](https://github.com/INCY-TEAM/incy-linux/releases/latest/download/incy-linux-x64.deb) [![RPM](https://img.shields.io/badge/rpm-x64-ee0000?logo=redhat&logoColor=white)](https://github.com/INCY-TEAM/incy-linux/releases/latest/download/incy-linux-x64.rpm) |
+| **Linux ARM64** | [![DEB](https://img.shields.io/badge/deb-arm64-a80030?logo=debian&logoColor=white)](https://github.com/INCY-TEAM/incy-linux/releases/latest/download/incy-linux-arm64.deb) [![RPM](https://img.shields.io/badge/rpm-arm64-ee0000?logo=redhat&logoColor=white)](https://github.com/INCY-TEAM/incy-linux/releases/latest/download/incy-linux-arm64.rpm) |
 | **Apple TV** | [![tvOS](https://img.shields.io/badge/App_Store-tvOS-555555?logo=apple&logoColor=white)](https://apps.apple.com/ru/app/incy/id6756943388) |
 | **Android TV** | [![Google Play](https://img.shields.io/badge/Google_Play-TV-34a853?logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=llc.itdev.incy) |
 
